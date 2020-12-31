@@ -1,0 +1,9 @@
+name: DeathLoot
+version: 0.0.0.1
+authors: [B1GSt4R]
+website: https://Langenhorst-ITS.de
+main: de.B1GSt4R.Main.system
+commands:
+  rev:
+    usage: </command>
+    description: coming soon
